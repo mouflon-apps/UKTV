@@ -20,9 +20,9 @@ IF YOU HAVE ANY ISSUE, REPORT OR CLAIM ABOUT ANY TV CHANNEL, PLEASE DON’T HESI
 </p>
 
 <p align="center">
-  <a href="https://www.google.com/"><img src="screenshots/onestore.png" alt="Amazon" height="48"></a>
+  <a href="https://www.google.com/"><img src="screenshots/onestore.png" height="50" hspace="12"></a>
   &nbsp;&nbsp;
-  <a href="https://www.google.com/"><img src="screenshots/apkpure.png" alt="Aptoide" height="48"></a>
+  <a href="https://www.google.com/"><img src="screenshots/apkpure.png" height="50" hspace="12"></a>
   &nbsp;&nbsp;
-  <a href="https://www.google.com/"><img src="screenshots/itch.png" alt="Galaxy" height="48"></a>
+  <a href="https://www.google.com/"><img src="screenshots/itch.png" height="50" hspace="12"></a>
 </p>
