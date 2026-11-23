@@ -12,3 +12,9 @@
 UK TV is a stunning app which enables you to watch the latest UK live news and entertainment. It is a free application which provides you perfect opportunity to watch live television of United Kingdom around the world. You can directly access your favorite television channels and watch diverse news, films, talk shows, programs etc. from your smartphone and tablet anywhere and anytime. 
 
 IF YOU HAVE ANY ISSUE, REPORT OR CLAIM ABOUT ANY TV CHANNEL, PLEASE DON’T HESITATE TO CONTACT US BY EMAIL INSIDE THIS APPLICATION. ALL THE TIME WE LOOK FORWARD TO HEARING YOUR COMPLAINTS, INQUIRIES AND ADVICES
+
+<p align="center">
+  <a href="https://www.google.com/"><img src="screenshots/onestore.png" height="48" style="margin: 5px;"></a>
+  <a href="https://www.google.com/"><img src="screenshots/apkpure.png" height="48" style="margin: 5px;"></a>
+  <a href="https://www.google.com/"><img src="screenshots/itch.png" height="48" style="margin: 5px;"></a>
+</p>
