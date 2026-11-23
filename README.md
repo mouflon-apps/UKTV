@@ -16,5 +16,5 @@ IF YOU HAVE ANY ISSUE, REPORT OR CLAIM ABOUT ANY TV CHANNEL, PLEASE DON’T HESI
 <p align="center">
   <a href="https://m.onestore.co.kr/v2/ko-kr/app/0001013145"><img src="screenshots/onestore.png" height="50" style="margin: 50px;"></a>
   <a href="https://apkpure.com/p/mouflon.apps.core.uk"><img src="screenshots/apkpure.png" height="50" style="margin: 50px;"></a>
-  <a href="https://mouflon-apps.itch.io/tv-uk"><img src="screenshots/itch.png" height="50" style="margin: 250px;"></a>
+  <a href="https://mouflon-apps.itch.io/tv-uk"><img src="screenshots/itch.png" height="50" style="margin: 1250px;"></a>
 </p>
