@@ -14,7 +14,7 @@ UK TV is a stunning app which enables you to watch the latest UK live news and e
 IF YOU HAVE ANY ISSUE, REPORT OR CLAIM ABOUT ANY TV CHANNEL, PLEASE DON’T HESITATE TO CONTACT US BY EMAIL INSIDE THIS APPLICATION. ALL THE TIME WE LOOK FORWARD TO HEARING YOUR COMPLAINTS, INQUIRIES AND ADVICES
 
 <p align="center">
-  <a href="https://m.onestore.co.kr/v2/ko-kr/app/0001013145"><img src="screenshots/onestore.png" height="50" style="margin: 25px;"></a>
-  <a href="https://apkpure.com/p/mouflon.apps.core.uk"><img src="screenshots/apkpure.png" height="50" style="margin: 25px;"></a>
-  <a href="https://mouflon-apps.itch.io/tv-uk"><img src="screenshots/itch.png" height="50" style="margin: 25px;"></a>
+  <a href="https://m.onestore.co.kr/v2/ko-kr/app/0001013145"><img src="screenshots/onestore.png" height="50" style="margin: 50px;"></a>
+  <a href="https://apkpure.com/p/mouflon.apps.core.uk"><img src="screenshots/apkpure.png" height="50" style="margin: 50px;"></a>
+  <a href="https://mouflon-apps.itch.io/tv-uk"><img src="screenshots/itch.png" height="50" style="margin: 50px;"></a>
 </p>
