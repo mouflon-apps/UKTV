@@ -20,5 +20,7 @@ IF YOU HAVE ANY ISSUE, REPORT OR CLAIM ABOUT ANY TV CHANNEL, PLEASE DON’T HESI
   &nbsp;&nbsp;
   <a href="https://apkpure.com/p/mouflon.apps.core.uk"><img src="screenshots/apkpure.png" height="50" hspace="5"></a>
   &nbsp;&nbsp;
+  <a href="https://appgallery.huawei.com/#/app/C119439719"><img src="screenshots/huawei.png" height="50" hspace="5"></a>
+  &nbsp;&nbsp;
   <a href="https://mouflon-apps.itch.io/tv-uk"><img src="screenshots/itch.png" height="50" hspace="5"></a>
 </p>
